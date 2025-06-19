@@ -11,22 +11,22 @@ CKEDITOR.addTemplates( 'default', {
 
 	// The templates definitions.
 	templates: [ {
-		title: 'Hláška 1',
+		title: 'Další úspěch',
 		image: 'template1.gif',
-		description: 'One main image with a title and text that surround the image.',
-		html: 'Nějaký text první hlášky'
+		description: 'Další úspěch může být náš společný. Staňte se dárcem či dárkyní Hnutí DUHA na darce.hnutiduha.cz.',
+		html: 'Další úspěch může být náš společný. Staňte se dárcem či dárkyní Hnutí DUHA na <a href="https://darce.hnutiduha.cz/#widget">darce.hnutiduha.cz</a>.'
 	},
     {
-		title: 'Hláška 2',
+		title: 'Příští úspěch',
 		image: 'template1.gif',
-		description: 'One main image with a title and text that surround the image.',
-		html: 'Nějaký text druhé hlášky'
+		description: 'Náš příští úspěch může být společný! Staňte se i Vy přáteli Hnutí DUHA. Více na darce.hnutiduha.cz.',
+		html: 'Náš příští úspěch může být společný! Staňte se i Vy přáteli Hnutí DUHA<br>Více na <a href="http://darce.hnutiduha.cz/">darce.hnutiduha.cz</a>.'
 	},
     {
-		title: 'Hláška 3',
+		title: 'I Vy můžete',
 		image: 'template1.gif',
-		description: 'One main image with a title and text that surround the image.',
-		html: 'Nějaký text třetí hlášky'
+		description: 'I Vy můžete pomoci přírodě. Podpořte Hnutí DUHA na darce.hnutiduha.cz.',
+		html: 'I Vy můžete pomoci přírodě. Podpořte Hnutí DUHA na <a href="https://darce.hnutiduha.cz">darce.hnutiduha.cz</a>.'
 	}
  ]
 } );
